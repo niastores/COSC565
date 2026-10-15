@@ -15,8 +15,8 @@ writes the Word, HTML, Excel, and CSV schedules and a review-notes.txt file to t
 
     make -f ClassScheduler.mk run SCHEDULE="ClassScheduler/DATA/schedule.xlsx"  SYLLABUS="ClassScheduler/DATA/syllabus.docx"
 
-SAMPLE RUN OUTPUT
-
+**SAMPLE RUN OUTPUT
+**
     dotnet restore /Project/ClassScheduler/ClassScheduler.csproj
     Restore complete (1.2s)
     
