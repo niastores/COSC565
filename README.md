@@ -17,6 +17,7 @@ writes the Word, HTML, Excel, and CSV schedules and a review-notes.txt file to t
 
 **SAMPLE RUN OUTPUT
 **
+
     dotnet restore /Project/ClassScheduler/ClassScheduler.csproj
     Restore complete (1.2s)
     
