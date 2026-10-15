@@ -1,0 +1,207 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nstores\\Desktop\\Misc\\COSC\\565\\Project\\ClassScheduler\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F437BD99-F6E8-917F-2FBE-86615A9F215E}|ClassScheduler.csproj|c:\\users\\nstores\\desktop\\misc\\cosc\\565\\project\\classscheduler\\models\\meetingtime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F437BD99-F6E8-917F-2FBE-86615A9F215E}|ClassScheduler.csproj|solutionrelative:models\\meetingtime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F437BD99-F6E8-917F-2FBE-86615A9F215E}|ClassScheduler.csproj|c:\\users\\nstores\\desktop\\misc\\cosc\\565\\project\\classscheduler\\integration\\dataintegrator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F437BD99-F6E8-917F-2FBE-86615A9F215E}|ClassScheduler.csproj|solutionrelative:integration\\dataintegrator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F437BD99-F6E8-917F-2FBE-86615A9F215E}|ClassScheduler.csproj|c:\\users\\nstores\\desktop\\misc\\cosc\\565\\project\\classscheduler\\input\\exceltablereader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F437BD99-F6E8-917F-2FBE-86615A9F215E}|ClassScheduler.csproj|solutionrelative:input\\exceltablereader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F437BD99-F6E8-917F-2FBE-86615A9F215E}|ClassScheduler.csproj|c:\\users\\nstores\\desktop\\misc\\cosc\\565\\project\\classscheduler\\input\\csvtablereader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F437BD99-F6E8-917F-2FBE-86615A9F215E}|ClassScheduler.csproj|solutionrelative:input\\csvtablereader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F437BD99-F6E8-917F-2FBE-86615A9F215E}|ClassScheduler.csproj|c:\\users\\nstores\\desktop\\misc\\cosc\\565\\project\\classscheduler\\input\\csvfacultyparser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F437BD99-F6E8-917F-2FBE-86615A9F215E}|ClassScheduler.csproj|solutionrelative:input\\csvfacultyparser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F437BD99-F6E8-917F-2FBE-86615A9F215E}|ClassScheduler.csproj|c:\\users\\nstores\\desktop\\misc\\cosc\\565\\project\\classscheduler\\input\\commandlineargs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F437BD99-F6E8-917F-2FBE-86615A9F215E}|ClassScheduler.csproj|solutionrelative:input\\commandlineargs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F437BD99-F6E8-917F-2FBE-86615A9F215E}|ClassScheduler.csproj|c:\\users\\nstores\\desktop\\misc\\cosc\\565\\project\\classscheduler\\input\\argumentvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F437BD99-F6E8-917F-2FBE-86615A9F215E}|ClassScheduler.csproj|solutionrelative:input\\argumentvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F437BD99-F6E8-917F-2FBE-86615A9F215E}|ClassScheduler.csproj|c:\\users\\nstores\\desktop\\misc\\cosc\\565\\project\\classscheduler\\app\\schedulegenerationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F437BD99-F6E8-917F-2FBE-86615A9F215E}|ClassScheduler.csproj|solutionrelative:app\\schedulegenerationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F437BD99-F6E8-917F-2FBE-86615A9F215E}|ClassScheduler.csproj|c:\\users\\nstores\\desktop\\misc\\cosc\\565\\project\\classscheduler\\app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F437BD99-F6E8-917F-2FBE-86615A9F215E}|ClassScheduler.csproj|solutionrelative:app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F437BD99-F6E8-917F-2FBE-86615A9F215E}|ClassScheduler.csproj|c:\\users\\nstores\\desktop\\misc\\cosc\\565\\project\\classscheduler\\app\\ilogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F437BD99-F6E8-917F-2FBE-86615A9F215E}|ClassScheduler.csproj|solutionrelative:app\\ilogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F437BD99-F6E8-917F-2FBE-86615A9F215E}|ClassScheduler.csproj|c:\\users\\nstores\\desktop\\misc\\cosc\\565\\project\\classscheduler\\app\\appconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F437BD99-F6E8-917F-2FBE-86615A9F215E}|ClassScheduler.csproj|solutionrelative:app\\appconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MeetingTime.cs",
+              "DocumentMoniker": "C:\\Users\\nstores\\Desktop\\Misc\\COSC\\565\\Project\\ClassScheduler\\Models\\MeetingTime.cs",
+              "RelativeDocumentMoniker": "Models\\MeetingTime.cs",
+              "ToolTip": "C:\\Users\\nstores\\Desktop\\Misc\\COSC\\565\\Project\\ClassScheduler\\Models\\MeetingTime.cs",
+              "RelativeToolTip": "Models\\MeetingTime.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-15T19:53:01.691Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DataIntegrator.cs",
+              "DocumentMoniker": "C:\\Users\\nstores\\Desktop\\Misc\\COSC\\565\\Project\\ClassScheduler\\Integration\\DataIntegrator.cs",
+              "RelativeDocumentMoniker": "Integration\\DataIntegrator.cs",
+              "ToolTip": "C:\\Users\\nstores\\Desktop\\Misc\\COSC\\565\\Project\\ClassScheduler\\Integration\\DataIntegrator.cs",
+              "RelativeToolTip": "Integration\\DataIntegrator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-15T19:50:21.486Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ExcelTableReader.cs",
+              "DocumentMoniker": "C:\\Users\\nstores\\Desktop\\Misc\\COSC\\565\\Project\\ClassScheduler\\Input\\ExcelTableReader.cs",
+              "RelativeDocumentMoniker": "Input\\ExcelTableReader.cs",
+              "ToolTip": "C:\\Users\\nstores\\Desktop\\Misc\\COSC\\565\\Project\\ClassScheduler\\Input\\ExcelTableReader.cs",
+              "RelativeToolTip": "Input\\ExcelTableReader.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-15T19:50:17.647Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CsvTableReader.cs",
+              "DocumentMoniker": "C:\\Users\\nstores\\Desktop\\Misc\\COSC\\565\\Project\\ClassScheduler\\Input\\CsvTableReader.cs",
+              "RelativeDocumentMoniker": "Input\\CsvTableReader.cs",
+              "ToolTip": "C:\\Users\\nstores\\Desktop\\Misc\\COSC\\565\\Project\\ClassScheduler\\Input\\CsvTableReader.cs",
+              "RelativeToolTip": "Input\\CsvTableReader.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-15T19:50:16.54Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CsvFacultyParser.cs",
+              "DocumentMoniker": "C:\\Users\\nstores\\Desktop\\Misc\\COSC\\565\\Project\\ClassScheduler\\Input\\CsvFacultyParser.cs",
+              "RelativeDocumentMoniker": "Input\\CsvFacultyParser.cs",
+              "ToolTip": "C:\\Users\\nstores\\Desktop\\Misc\\COSC\\565\\Project\\ClassScheduler\\Input\\CsvFacultyParser.cs",
+              "RelativeToolTip": "Input\\CsvFacultyParser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-15T19:50:15.398Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CommandLineArgs.cs",
+              "DocumentMoniker": "C:\\Users\\nstores\\Desktop\\Misc\\COSC\\565\\Project\\ClassScheduler\\Input\\CommandLineArgs.cs",
+              "RelativeDocumentMoniker": "Input\\CommandLineArgs.cs",
+              "ToolTip": "C:\\Users\\nstores\\Desktop\\Misc\\COSC\\565\\Project\\ClassScheduler\\Input\\CommandLineArgs.cs",
+              "RelativeToolTip": "Input\\CommandLineArgs.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-15T19:50:13.923Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ArgumentValidator.cs",
+              "DocumentMoniker": "C:\\Users\\nstores\\Desktop\\Misc\\COSC\\565\\Project\\ClassScheduler\\Input\\ArgumentValidator.cs",
+              "RelativeDocumentMoniker": "Input\\ArgumentValidator.cs",
+              "ToolTip": "C:\\Users\\nstores\\Desktop\\Misc\\COSC\\565\\Project\\ClassScheduler\\Input\\ArgumentValidator.cs",
+              "RelativeToolTip": "Input\\ArgumentValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-15T19:50:12.351Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ScheduleGenerationService.cs",
+              "DocumentMoniker": "C:\\Users\\nstores\\Desktop\\Misc\\COSC\\565\\Project\\ClassScheduler\\App\\ScheduleGenerationService.cs",
+              "RelativeDocumentMoniker": "App\\ScheduleGenerationService.cs",
+              "ToolTip": "C:\\Users\\nstores\\Desktop\\Misc\\COSC\\565\\Project\\ClassScheduler\\App\\ScheduleGenerationService.cs",
+              "RelativeToolTip": "App\\ScheduleGenerationService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-15T19:50:06.393Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\nstores\\Desktop\\Misc\\COSC\\565\\Project\\ClassScheduler\\App\\Program.cs",
+              "RelativeDocumentMoniker": "App\\Program.cs",
+              "ToolTip": "C:\\Users\\nstores\\Desktop\\Misc\\COSC\\565\\Project\\ClassScheduler\\App\\Program.cs",
+              "RelativeToolTip": "App\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-15T19:50:05.531Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ILogger.cs",
+              "DocumentMoniker": "C:\\Users\\nstores\\Desktop\\Misc\\COSC\\565\\Project\\ClassScheduler\\App\\ILogger.cs",
+              "RelativeDocumentMoniker": "App\\ILogger.cs",
+              "ToolTip": "C:\\Users\\nstores\\Desktop\\Misc\\COSC\\565\\Project\\ClassScheduler\\App\\ILogger.cs",
+              "RelativeToolTip": "App\\ILogger.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-15T19:50:03.98Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AppConfig.cs",
+              "DocumentMoniker": "C:\\Users\\nstores\\Desktop\\Misc\\COSC\\565\\Project\\ClassScheduler\\App\\AppConfig.cs",
+              "RelativeDocumentMoniker": "App\\AppConfig.cs",
+              "ToolTip": "C:\\Users\\nstores\\Desktop\\Misc\\COSC\\565\\Project\\ClassScheduler\\App\\AppConfig.cs",
+              "RelativeToolTip": "App\\AppConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-15T19:50:01.871Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

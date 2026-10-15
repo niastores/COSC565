@@ -1,0 +1,109 @@
+﻿Professor,Type,Course,Title,Section,Day,Start,End,Location
+Dr. Appolo Tankeh,OfficeHours,,,,Tuesday,10:45 AM,12:45 PM,
+Dr. Appolo Tankeh,OfficeHours,,,,Thursday,10:45 AM,11:45 AM,
+"Adedoyin, Anthony",Class,CTEC 350,Prin & Meth of Intru Det & Pre,170,Monday,4:00 PM,6:50 PM,108
+"Adedoyin, Anthony",Class,CTEC 350,Prin & Meth of Intru Det & Pre,170,Wednesday,4:00 PM,6:50 PM,108
+"Adedoyin, Anthony",Class,CTEC 350,Prin & Meth of Intru Det & Pre,180,Monday,4:00 PM,6:50 PM,108
+"Adedoyin, Anthony",Class,CTEC 350,Prin & Meth of Intru Det & Pre,180,Wednesday,4:00 PM,6:50 PM,108
+"Adedoyin, Anthony",Class,CTEC 435,UNIX System Administration,170,Monday,7:00 PM,9:50 PM,108
+"Adedoyin, Anthony",Class,CTEC 435,UNIX System Administration,170,Wednesday,7:00 PM,9:50 PM,108
+"Agboli, P.",Class,CTEC 120,Prin of SecureCoding Using Jav,171,Monday,5:00 PM,7:00 PM,201/112
+"Agboli, P.",Class,CTEC 120,Prin of SecureCoding Using Jav,171,Wednesday,5:00 PM,7:00 PM,201/112
+"Agboli, P.",Class,CTEC 300,Database Achitecture,170,Monday,7:00 PM,9:50 PM,112
+"Agboli, P.",Class,CTEC 300,Database Achitecture,170,Wednesday,7:00 PM,9:50 PM,112
+"Baptiste, R.",Class,CTEC 214,Client Operating Systs,180,Tuesday,12:00 PM,3:40 PM,109
+"Baptiste, R.",Class,CTEC 214,Client Operating Systs,180,Thursday,12:00 PM,3:40 PM,109
+"Baptiste, R.",Class,CTEC 302,Computer Networking,170,Tuesday,4:00 PM,6:50 PM,Dept
+"Baptiste, R.",Class,CTEC 302,Computer Networking,170,Thursday,4:00 PM,6:50 PM,Dept
+"Baptiste, R.",Class,CTEC 302,Computer Networking,180,Tuesday,4:00 PM,6:50 PM,111
+"Baptiste, R.",Class,CTEC 302,Computer Networking,180,Thursday,4:00 PM,6:50 PM,111
+Bemley,Class,CTEC 128,Discrete Structures - Big Data,170,Tuesday,12:00 PM,2:50 PM,Online
+Bemley,Class,CTEC 128,Discrete Structures - Big Data,170,Thursday,12:00 PM,2:50 PM,Online
+Bemley,Class,CTEC 298,Symbolic Computation use BigDa,180,Tuesday,4:00 PM,6:50 PM,108
+Bemley,Class,CTEC 298,Symbolic Computation use BigDa,180,Thursday,4:00 PM,6:50 PM,108
+Bemley,Class,CTEC 671,Smart Integrated Systems,555,Tuesday,4:00 PM,6:50 PM,Online
+Bemley,Class,CTEC 671,Smart Integrated Systems,555,Thursday,4:00 PM,6:50 PM,Online
+Ruth Agada,Class,CTEC 402,Software and OS Security,180,Monday,7:00 PM,9:50 PM,Online
+Ruth Agada,Class,CTEC 402,Software and OS Security,180,Wednesday,7:00 PM,9:50 PM,Online
+Ruth Agada,Class,CTEC 435,UNIX System Administration,180,Monday,7:00 PM,9:50 PM,108
+Ruth Agada,Class,CTEC 435,UNIX System Administration,180,Wednesday,7:00 PM,9:50 PM,108
+"Bright, Marvin",Class,CTEC 720,Master's Thesis Research I,555,Monday,7:00 PM,9:50 PM,Online
+"Bright, Marvin",Class,CTEC 720,Master's Thesis Research I,555,Wednesday,7:00 PM,9:50 PM,Online
+"Bright, Marvin",Class,CTEC 721,Master's Thesis Research II,555,Tuesday,7:00 PM,9:50 PM,Online
+"Bright, Marvin",Class,CTEC 721,Master's Thesis Research II,555,Thursday,7:00 PM,9:50 PM,Online
+"Carter, Adrian D.",Class,CTEC 424,Database Administration,555,Tuesday,7:00 PM,9:50 PM,Online
+"Carter, Adrian D.",Class,CTEC 424,Database Administration,555,Thursday,7:00 PM,9:50 PM,Online
+"Carter, Adrian D.",Class,CTEC 445,Fund of Cryptography & Applica,170,Monday,4:00 PM,6:50 PM,111
+"Carter, Adrian D.",Class,CTEC 445,Fund of Cryptography & Applica,170,Wednesday,4:00 PM,6:50 PM,111
+"Carter, Adrian D.",Class,CTEC 450,Case Studies in Comp Security,170,Monday,7:00 PM,9:50 PM,111
+"Carter, Adrian D.",Class,CTEC 450,Case Studies in Comp Security,170,Wednesday,7:00 PM,9:50 PM,111
+"Chery, Pierrot",Class,CTEC 305,Server Administration I,170,Tuesday,4:00 PM,6:50 PM,Dept
+"Chery, Pierrot",Class,CTEC 305,Server Administration I,170,Thursday,4:00 PM,6:50 PM,Dept
+"Chery, Pierrot",Class,CTEC 305,Server Administration I,180,Tuesday,4:00 PM,6:50 PM,109
+"Chery, Pierrot",Class,CTEC 305,Server Administration I,180,Thursday,4:00 PM,6:50 PM,109
+"Chery, Pierrot",Class,CTEC 405,Server Administration II,170,Tuesday,7:00 PM,9:50 PM,109
+"Chery, Pierrot",Class,CTEC 405,Server Administration II,170,Thursday,7:00 PM,9:50 PM,109
+"Deal, Shawn",Class,CTEC 226,Intro To Db Development,180,Tuesday,7:00 PM,9:50 PM,116
+"Deal, Shawn",Class,CTEC 226,Intro To Db Development,180,Thursday,7:00 PM,9:50 PM,116
+"Dixon, Carl",Class,CTEC 294,PC Architecture,170,Monday,4:00 PM,6:50 PM,112
+"Dixon, Carl",Class,CTEC 294,PC Architecture,170,Wednesday,4:00 PM,6:50 PM,112
+"Dixon, Carl",Class,CTEC 294,PC Architecture,180,Monday,4:00 PM,6:50 PM,112
+"Dixon, Carl",Class,CTEC 294,PC Architecture,180,Wednesday,4:00 PM,6:50 PM,112
+"Dr. Stone, D. B.",Class,CTEC 120,Prin of SecureCoding Using Jav,170,Monday,12:00 PM,3:15 PM,116
+"Dr. Stone, D. B.",Class,CTEC 120,Prin of SecureCoding Using Jav,170,Wednesday,12:00 PM,3:15 PM,116
+"Dr. Stone, D. B.",Class,CTEC 324,Database Appl Dev,555,Monday,4:00 PM,6:50 PM,online
+"Dr. Stone, D. B.",Class,CTEC 324,Database Appl Dev,555,Wednesday,4:00 PM,6:50 PM,online
+Eugene Harris,Class,CTEC 111,Cybersecurity for All,172,Tuesday,8:00 AM,10:50 AM,111
+Eugene Harris,Class,CTEC 111,Cybersecurity for All,172,Thursday,8:00 AM,10:50 AM,111
+Eugene Harris,Class,CTEC 114,Comp Tools & Environ,172,Tuesday,4:00 PM,6:50 PM,114
+Eugene Harris,Class,CTEC 114,Comp Tools & Environ,172,Thursday,4:00 PM,6:50 PM,114
+"Francis, Wilbert R.",Class,CTEC 475,Cloud Computing,180,Monday,7:00 PM,9:50 PM,114
+"Francis, Wilbert R.",Class,CTEC 475,Cloud Computing,180,Wednesday,7:00 PM,9:50 PM,114
+Henri E. Cooper,Class,CTEC 111,Cybersecurity for All,173,Monday,4:00 PM,6:50 PM,Online
+Henri E. Cooper,Class,CTEC 111,Cybersecurity for All,173,Wednesday,4:00 PM,6:50 PM,Online
+Staphord Bengesi,Class,CTEC 111,Cybersecurity for All,171,Monday,8:00 AM,10:50 AM,Online
+Staphord Bengesi,Class,CTEC 111,Cybersecurity for All,171,Wednesday,8:00 AM,10:50 AM,Online
+Staphord Bengesi,Class,CTEC 402,Software and OS Security,170,Monday,7:00 PM,9:50 PM,Online
+Staphord Bengesi,Class,CTEC 402,Software and OS Security,170,Wednesday,7:00 PM,9:50 PM,Online
+Staphord Bengesi,Class,CTEC 445,Fund of Cryptography & Applica,180,Monday,4:00 PM,6:50 PM,109
+Staphord Bengesi,Class,CTEC 445,Fund of Cryptography & Applica,180,Wednesday,4:00 PM,6:50 PM,109
+"Lamar, Courtney",Class,CTEC 393,Internet Prog II,555,Monday,4:00 PM,6:50 PM,Online
+"Lamar, Courtney",Class,CTEC 393,Internet Prog II,555,Wednesday,4:00 PM,6:50 PM,Online
+"Miller, Stephanie R.",Class,CTEC 426,Expert Systems Using Big Data,170,Monday,7:00 PM,9:50 PM,114
+"Miller, Stephanie R.",Class,CTEC 426,Expert Systems Using Big Data,170,Wednesday,7:00 PM,9:50 PM,114
+"Njeh, Felix",Class,CTEC 651,Internet of Things of Digital Res,555,Monday,4:00 PM,6:50 PM,Online
+"Njeh, Felix",Class,CTEC 651,Internet of Things of Digital Res,555,Wednesday,4:00 PM,6:50 PM,Online
+"Okonofua, Henry",Class,CTEC 410,Internet Technology,170,Tuesday,4:00 PM,6:50 PM,201
+"Okonofua, Henry",Class,CTEC 410,Internet Technology,170,Thursday,4:00 PM,6:50 PM,201
+"Okonofua, Henry",Class,CTEC 410,Internet Technology,180,Tuesday,4:00 PM,6:50 PM,201
+"Okonofua, Henry",Class,CTEC 410,Internet Technology,180,Thursday,4:00 PM,6:50 PM,201
+"Roberts, Curtis",Class,CTEC 222,Linux Operating System,170,Tuesday,7:00 PM,9:50 PM,108
+"Roberts, Curtis",Class,CTEC 222,Linux Operating System,170,Thursday,7:00 PM,9:50 PM,108
+"Roberts, Curtis",Class,CTEC 335,Network Protocols (TCP/IP),170,Tuesday,4:00 PM,6:50 PM,116
+"Roberts, Curtis",Class,CTEC 335,Network Protocols (TCP/IP),170,Thursday,4:00 PM,6:50 PM,116
+"Roberts, Curtis",Class,CTEC 335,Network Protocols (TCP/IP),180,Tuesday,4:00 PM,6:50 PM,116
+"Roberts, Curtis",Class,CTEC 335,Network Protocols (TCP/IP),180,Thursday,4:00 PM,6:50 PM,116
+Brett Tolbert,Class,CTEC 345,Found of Comp and Network Secu,170,Monday,5:00 PM,7:50 PM,109
+Brett Tolbert,Class,CTEC 345,Found of Comp and Network Secu,170,Wednesday,5:00 PM,7:50 PM,109
+Brett Tolbert,Class,CTEC 345,Found of Comp and Network Secu,180,Monday,5:00 PM,7:50 PM,111
+Brett Tolbert,Class,CTEC 345,Found of Comp and Network Secu,180,Wednesday,5:00 PM,7:50 PM,111
+Loubna Dali,Class,CTEC 450,Case Studies in Comp Security,180,Monday,7:00 PM,9:50 PM,111
+Loubna Dali,Class,CTEC 450,Case Studies in Comp Security,180,Wednesday,7:00 PM,9:50 PM,111
+Loubna Dali,Class,CTEC 111,Cybersecurity for All,170,Tuesday,9:00 AM,11:50 AM,Online
+Loubna Dali,Class,CTEC 111,Cybersecurity for All,170,Thursday,9:00 AM,11:50 AM,Online
+"Vega, J.",Class,CTEC 220,Adv Secure Coding Using Java,170,Monday,11:00 AM,1:50 PM,114
+"Vega, J.",Class,CTEC 220,Adv Secure Coding Using Java,170,Wednesday,11:00 AM,1:50 PM,114
+"Vega, J.",Class,CTEC 220,Adv Secure Coding Using Java,180,Monday,11:00 AM,1:50 PM,114
+"Vega, J.",Class,CTEC 220,Adv Secure Coding Using Java,180,Wednesday,11:00 AM,1:50 PM,114
+"Vega, J.",Class,CTEC 230,Application of Data Structures,180,Monday,4:00 PM,6:50 PM,114
+"Vega, J.",Class,CTEC 230,Application of Data Structures,180,Wednesday,4:00 PM,6:50 PM,114
+Victoria Lee,Class,CTEC 114,Comp Tools & Environ,170,Monday,4:00 PM,6:50 PM,116
+Victoria Lee,Class,CTEC 114,Comp Tools & Environ,170,Wednesday,4:00 PM,6:50 PM,116
+"Wilson, Marcella J.",Class,CTEC 128,Discrete Structures - Big Data,180,Tuesday,4:00 PM,6:50 PM,Online
+"Wilson, Marcella J.",Class,CTEC 128,Discrete Structures - Big Data,180,Thursday,4:00 PM,6:50 PM,Online
+"Wilson, Marcella J.",Class,CTEC 230,Application of Data Structures,170,Tuesday,11:00 AM,2:40 PM,114
+"Wilson, Marcella J.",Class,CTEC 230,Application of Data Structures,170,Thursday,11:00 AM,2:40 PM,114
+"Wilson, Marcella J.",Class,CTEC 293,Edge Technology,170,Monday,4:00 PM,6:50 PM,114
+"Wilson, Marcella J.",Class,CTEC 293,Edge Technology,170,Wednesday,4:00 PM,6:50 PM,114
+"Wilson, Marcella J.",Class,CTEC 415,Edge Computing,180,Tuesday,10:00 AM,12:50 PM,114
+"Wilson, Marcella J.",Class,CTEC 415,Edge Computing,180,Thursday,10:00 AM,12:50 PM,114

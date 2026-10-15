@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "TGsXLlTHweg=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\nstores\\Desktop\\Misc\\COSC\\565\\Project\\ClassScheduler\\ClassScheduler.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\nstores\\.nuget\\packages\\closedxml\\0.105.1\\closedxml.0.105.1.nupkg.sha512",
+    "C:\\Users\\nstores\\.nuget\\packages\\closedxml.parser\\2.0.0\\closedxml.parser.2.0.0.nupkg.sha512",
+    "C:\\Users\\nstores\\.nuget\\packages\\documentformat.openxml\\3.5.1\\documentformat.openxml.3.5.1.nupkg.sha512",
+    "C:\\Users\\nstores\\.nuget\\packages\\documentformat.openxml.framework\\3.5.1\\documentformat.openxml.framework.3.5.1.nupkg.sha512",
+    "C:\\Users\\nstores\\.nuget\\packages\\excelnumberformat\\1.1.0\\excelnumberformat.1.1.0.nupkg.sha512",
+    "C:\\Users\\nstores\\.nuget\\packages\\pdfpig\\0.1.16\\pdfpig.0.1.16.nupkg.sha512",
+    "C:\\Users\\nstores\\.nuget\\packages\\rbush.signed\\4.0.0\\rbush.signed.4.0.0.nupkg.sha512",
+    "C:\\Users\\nstores\\.nuget\\packages\\sixlabors.fonts\\1.0.0\\sixlabors.fonts.1.0.0.nupkg.sha512",
+    "C:\\Users\\nstores\\.nuget\\packages\\system.io.packaging\\10.0.2\\system.io.packaging.10.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,34 @@
+CTEC 711 555 (Ruth Agada): Invalid times '5:00 PM to 5:00 PM' (end is not after start); no meeting times recorded.
+CTEC 721 555 (Bright, Marvin): End time 9:50 AM is before start 7:00 PM; assumed 9:50 PM. Please verify.
+CTEC 120 170 (Dr. Stone, D. B.): End time 3:15 AM is before start 12:00 PM; assumed 3:15 PM. Please verify.
+CTEC 125 555 (Dr. Stone, D. B.): Could not read days ''.
+CTEC 125 556 (Dr. Stone, D. B.): Could not read days ''.
+[LECTURER_NOT_FOUND] 'Adedoyin, Anthony' is not in the faculty file; created a placeholder (section CTEC 350 170).
+[LECTURER_NOT_FOUND] 'Agboli, P.' is not in the faculty file; created a placeholder (section CTEC 120 171).
+[LECTURER_NOT_FOUND] 'Baptiste, R.' is not in the faculty file; created a placeholder (section CTEC 214 180).
+[LECTURER_NOT_FOUND] 'Bemley' is not in the faculty file; created a placeholder (section CTEC 128 170).
+[LECTURER_FUZZY_MATCH] 'Bemley, J' matched to 'Bemley' by surname/initial. Please verify.
+[LECTURER_FUZZY_MATCH] 'Bemley, Jesse' matched to 'Bemley' by surname/initial. Please verify.
+[LECTURER_NOT_FOUND] 'Ruth Agada' is not in the faculty file; created a placeholder (section CTEC 711 555).
+[LECTURER_NOT_FOUND] 'Bright, Marvin' is not in the faculty file; created a placeholder (section CTEC 720 555).
+[LECTURER_NOT_FOUND] 'Carter, Adrian D.' is not in the faculty file; created a placeholder (section CTEC 424 555).
+[LECTURER_NOT_FOUND] 'Chery, Pierrot' is not in the faculty file; created a placeholder (section CTEC 305 170).
+[LECTURER_NOT_FOUND] 'Deal, Shawn' is not in the faculty file; created a placeholder (section CTEC 226 180).
+[LECTURER_NOT_FOUND] 'Dixon, Carl' is not in the faculty file; created a placeholder (section CTEC 294 170).
+[LECTURER_NOT_FOUND] 'Dr. Stone, D. B.' is not in the faculty file; created a placeholder (section CTEC 120 170).
+[LECTURER_NOT_FOUND] 'Eugene Harris' is not in the faculty file; created a placeholder (section CTEC 111 172).
+[LECTURER_FUZZY_MATCH] 'Eugene T. Harris' matched to 'Eugene Harris' by surname/initial. Please verify.
+[LECTURER_NOT_FOUND] 'Francis, Wilbert R.' is not in the faculty file; created a placeholder (section CTEC 475 180).
+[LECTURER_NOT_FOUND] 'Henri E. Cooper' is not in the faculty file; created a placeholder (section CTEC 111 173).
+[LECTURER_NOT_FOUND] 'Staphord Bengesi' is not in the faculty file; created a placeholder (section CTEC 111 171).
+[LECTURER_NOT_FOUND] 'Lamar, Courtney' is not in the faculty file; created a placeholder (section CTEC 393 555).
+[LECTURER_NOT_FOUND] 'Miller, Stephanie R.' is not in the faculty file; created a placeholder (section CTEC 426 170).
+[LECTURER_NOT_FOUND] 'Njeh, Felix' is not in the faculty file; created a placeholder (section CTEC 651 555).
+[LECTURER_NOT_FOUND] 'Okonofua, Henry' is not in the faculty file; created a placeholder (section CTEC 410 170).
+[LECTURER_NOT_FOUND] 'Roberts, Curtis' is not in the faculty file; created a placeholder (section CTEC 222 170).
+[LECTURER_NOT_FOUND] 'Brett Tolbert' is not in the faculty file; created a placeholder (section CTEC 345 170).
+[LECTURER_NOT_FOUND] 'Loubna Dali' is not in the faculty file; created a placeholder (section CTEC 450 180).
+[LECTURER_NOT_FOUND] 'Vega, J.' is not in the faculty file; created a placeholder (section CTEC 220 170).
+[LECTURER_NOT_FOUND] 'Victoria Lee' is not in the faculty file; created a placeholder (section CTEC 114 170).
+[LECTURER_NOT_FOUND] 'Wilson, Marcella J.' is not in the faculty file; created a placeholder (section CTEC 128 180).
+[NO_SECTIONS] Dr. Appolo Tankeh has no sections in the syllabus.

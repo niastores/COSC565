@@ -1,0 +1,12 @@
+C:\Users\nstores\Desktop\Misc\COSC\565\Project\Common\bin\Debug\net10.0\ClassSchedulerCommon.deps.json
+C:\Users\nstores\Desktop\Misc\COSC\565\Project\Common\bin\Debug\net10.0\ClassSchedulerCommon.dll
+C:\Users\nstores\Desktop\Misc\COSC\565\Project\Common\bin\Debug\net10.0\ClassSchedulerCommon.pdb
+C:\Users\nstores\Desktop\Misc\COSC\565\Project\Common\obj\Debug\net10.0\ClassSchedulerCommon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nstores\Desktop\Misc\COSC\565\Project\Common\obj\Debug\net10.0\ClassSchedulerCommon.AssemblyInfoInputs.cache
+C:\Users\nstores\Desktop\Misc\COSC\565\Project\Common\obj\Debug\net10.0\ClassSchedulerCommon.AssemblyInfo.cs
+C:\Users\nstores\Desktop\Misc\COSC\565\Project\Common\obj\Debug\net10.0\ClassSchedulerCommon.csproj.CoreCompileInputs.cache
+C:\Users\nstores\Desktop\Misc\COSC\565\Project\Common\obj\Debug\net10.0\ClassSchedulerCommon.dll
+C:\Users\nstores\Desktop\Misc\COSC\565\Project\Common\obj\Debug\net10.0\refint\ClassSchedulerCommon.dll
+C:\Users\nstores\Desktop\Misc\COSC\565\Project\Common\obj\Debug\net10.0\ClassSchedulerCommon.pdb
+C:\Users\nstores\Desktop\Misc\COSC\565\Project\Common\obj\Debug\net10.0\ref\ClassSchedulerCommon.dll
+C:\Users\nstores\Desktop\Misc\COSC\565\Project\Common\obj\Debug\net10.0\ClassSch.F52E3F53.Up2Date

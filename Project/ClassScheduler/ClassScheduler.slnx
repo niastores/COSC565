@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="../ClassSchedulerCommon/ClassSchedulerCommon.csproj" />
+  <Project Path="ClassScheduler.csproj" />
+</Solution>
